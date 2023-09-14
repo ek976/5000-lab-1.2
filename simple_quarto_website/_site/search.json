@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Some text.\n\n\nInside about.ipynb do the following Add some text separated by header (h1,h2,h3) (call them whatever you want but be professional) Note: Use of ipsum lorem place-holder text is allowed Add at least one python code cell with an output plot (any plot is fine)\n\n# importing library \nimport matplotlib.pyplot as plt  \n\n# add x values \nx = [3,6,9]  \n\n# add y values \ny= [2,6,10]\n\n# plotting the points  \nplt.plot(x, y) \n\n# Label x \nplt.xlabel('x-axis')\n\n# Label y \nplt.ylabel('y-axis')\n\n# Title \nplt.title('First plot!')\n\n# Show plot \nplt.show()"
+  },
+  {
+    "objectID": "about.html#subheader",
+    "href": "about.html#subheader",
+    "title": "About",
+    "section": "",
+    "text": "Inside about.ipynb do the following Add some text separated by header (h1,h2,h3) (call them whatever you want but be professional) Note: Use of ipsum lorem place-holder text is allowed Add at least one python code cell with an output plot (any plot is fine)\n\n# importing library \nimport matplotlib.pyplot as plt  \n\n# add x values \nx = [3,6,9]  \n\n# add y values \ny= [2,6,10]\n\n# plotting the points  \nplt.plot(x, y) \n\n# Label x \nplt.xlabel('x-axis')\n\n# Label y \nplt.ylabel('y-axis')\n\n# Title \nplt.title('First plot!')\n\n# Show plot \nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DSAN-5000",
+    "section": "",
+    "text": "Information to show that I can wrap the columns in this page. It divides nicely even when I re- size the page. I could probably add the lorem ipsum text filler to see how closely the text in the columns fits together.\n\nHere is more text to show column wrapping. Now I will duplicate the fist column: Information to show that I can wrap the columns in this page. It divides nicely even when I re- size the page. I could probably add the lorem ipsum text filler to see how closely the text in the columns fits together.\n\n\n\n\n\n\n\n\n\n\nComplete labs\nAttend lecture\nRead\n\n\n\n\n\nCall people\nAnswer email\nProduce IP\n\n\n\n\n\n\n\n\n\n\nA table\nIt Includes Data\n\n\n\n\nPine trees\nOften grow in cooler climates\n\n\nMaple Trees\nChange color in cooler claimtes\n\n\n\nSay I add some text.\n\n\n\nLittle’s Law:\n\\(L=\\lambda W\\)\n\n\n\nHere would be a sample citation of something someone said! (see Taylor (1999))\n\n\n\nHere is a quote:\n\nAll models are wrong but some are useful.\n\n\n\n\n\n\n\nThis is a picture of a tree\n\n\n\n\n\nThis is a picture of different trees\n\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Start raduate school] --&gt; B(Get stressed)\n  B --&gt; C{Options}\n  C --&gt; D[Relaxing videos]\n  C --&gt; E[Phone a friend]\n  C --&gt; F[Cry ]\n\n\nA Mermaid diagram\n\n\n\n\n\n\n\n\n\n\n\nTaylor, John B. 1999. “A Historical Analysis of Monetary Policy Rules.” In Monetary Policy Rules, 319–48. University of Chicago Press."
+  },
+  {
+    "objectID": "index.html#columns",
+    "href": "index.html#columns",
+    "title": "DSAN-5000",
+    "section": "",
+    "text": "Information to show that I can wrap the columns in this page. It divides nicely even when I re- size the page. I could probably add the lorem ipsum text filler to see how closely the text in the columns fits together.\n\nHere is more text to show column wrapping. Now I will duplicate the fist column: Information to show that I can wrap the columns in this page. It divides nicely even when I re- size the page. I could probably add the lorem ipsum text filler to see how closely the text in the columns fits together."
+  },
+  {
+    "objectID": "index.html#bullets",
+    "href": "index.html#bullets",
+    "title": "DSAN-5000",
+    "section": "",
+    "text": "Complete labs\nAttend lecture\nRead\n\n\n\n\n\nCall people\nAnswer email\nProduce IP"
+  },
+  {
+    "objectID": "index.html#add-at-least-one-markdown-table",
+    "href": "index.html#add-at-least-one-markdown-table",
+    "title": "DSAN-5000",
+    "section": "",
+    "text": "A table\nIt Includes Data\n\n\n\n\nPine trees\nOften grow in cooler climates\n\n\nMaple Trees\nChange color in cooler claimtes\n\n\n\nSay I add some text."
+  },
+  {
+    "objectID": "index.html#add-at-least-one-inline-math-latex-equation",
+    "href": "index.html#add-at-least-one-inline-math-latex-equation",
+    "title": "DSAN-5000",
+    "section": "",
+    "text": "Little’s Law:\n\\(L=\\lambda W\\)"
+  },
+  {
+    "objectID": "index.html#include-at-least-one-foot-note-in-the-file",
+    "href": "index.html#include-at-least-one-foot-note-in-the-file",
+    "title": "DSAN-5000",
+    "section": "",
+    "text": "Here would be a sample citation of something someone said! (see Taylor (1999))"
+  },
+  {
+    "objectID": "index.html#include-at-least-one-quote-using",
+    "href": "index.html#include-at-least-one-quote-using",
+    "title": "DSAN-5000",
+    "section": "",
+    "text": "Here is a quote:\n\nAll models are wrong but some are useful."
+  },
+  {
+    "objectID": "index.html#add-at-least-two-embedded-images-sortd-in-be-professional",
+    "href": "index.html#add-at-least-two-embedded-images-sortd-in-be-professional",
+    "title": "DSAN-5000",
+    "section": "",
+    "text": "This is a picture of a tree\n\n\n\n\n\nThis is a picture of different trees"
+  },
+  {
+    "objectID": "index.html#include-at-least-one-mermaid-diagram",
+    "href": "index.html#include-at-least-one-mermaid-diagram",
+    "title": "DSAN-5000",
+    "section": "",
+    "text": "flowchart LR\n  A[Start raduate school] --&gt; B(Get stressed)\n  B --&gt; C{Options}\n  C --&gt; D[Relaxing videos]\n  C --&gt; E[Phone a friend]\n  C --&gt; F[Cry ]\n\n\nA Mermaid diagram"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "DSAN-5000",
+    "section": "",
+    "text": "Taylor, John B. 1999. “A Historical Analysis of Monetary Policy Rules.” In Monetary Policy Rules, 319–48. University of Chicago Press."
+  },
+  {
+    "objectID": "slides/slides.html#slide-one",
+    "href": "slides/slides.html#slide-one",
+    "title": "A Sample Slideshow",
+    "section": "Slide One",
+    "text": "Slide One\n\nHere is a bullet\nHere is a second bullet"
+  },
+  {
+    "objectID": "slides/slides.html#slide-two",
+    "href": "slides/slides.html#slide-two",
+    "title": "A Sample Slideshow",
+    "section": "Slide Two",
+    "text": "Slide Two\n\nThis bullet is beautiful\nThis bullet is outgoing\nHere would be a sample citation of something someone said! (see Taylor (1999))"
+  },
+  {
+    "objectID": "slides/slides.html#slide-three",
+    "href": "slides/slides.html#slide-three",
+    "title": "A Sample Slideshow",
+    "section": "Slide Three",
+    "text": "Slide Three\n\nThis is a picture of a tree"
+  },
+  {
+    "objectID": "slides/slides.html#slide-four",
+    "href": "slides/slides.html#slide-four",
+    "title": "A Sample Slideshow",
+    "section": "Slide Four",
+    "text": "Slide Four\n\nThis is a picture of different trees"
+  },
+  {
+    "objectID": "slides/slides.html#slide-five",
+    "href": "slides/slides.html#slide-five",
+    "title": "A Sample Slideshow",
+    "section": "Slide Five",
+    "text": "Slide Five"
+  },
+  {
+    "objectID": "slides/slides.html#references",
+    "href": "slides/slides.html#references",
+    "title": "A Sample Slideshow",
+    "section": "References",
+    "text": "References\n\n\nTaylor, John B. 1999. “A Historical Analysis of Monetary Policy Rules.” In Monetary Policy Rules, 319–48. University of Chicago Press."
+  }
+]

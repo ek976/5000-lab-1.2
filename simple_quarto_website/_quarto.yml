@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "DSAN 5000 Lab 1.2"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Component-4
+      - href: about.ipynb
+        text: Component-5 
+      - href: slides/slides.ipynb
+        text: Component-6 
+      
+      
+bibliography: reference.bib
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+
+

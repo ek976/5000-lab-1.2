@@ -1,0 +1,90 @@
+---
+title: "DSAN-5000"
+---
+
+# Component Four 
+
+## Columns 
+
+::: columns
+::: column
+Information to show that I can wrap the columns in this page. It divides nicely even when I re- size the page. I could probably add the lorem ipsum text filler to see how closely the text in the columns fits together. 
+::::
+
+::: column
+Here is more text to show column wrapping. Now I will duplicate the fist column: Information to show that I can wrap the columns in this page. It divides nicely even when I re- size the page. I could probably add the lorem ipsum text filler to see how closely the text in the columns fits together.  
+:::
+:::
+
+## Bullets 
+::: {layout-ncol=2}
+### To-do for school  
+
+- Complete labs
+- Attend lecture
+- Read 
+
+### To-do for work 
+
+- Call people 
+- Answer email 
+- Produce IP 
+:::
+
+## Add at least one markdown table 
+
+| A table          | It Includes Data |
+| -----------      | -----------     |
+| Pine trees       | Often grow in cooler climates           |
+| Maple Trees   | Change color in cooler claimtes            |
+
+Say I add some text. 
+
+## Add at least one inline-math LaTex equation 
+
+Little's Law: 
+
+$L=\lambda W$
+
+
+## Include at least one foot-note in the file 
+
+Here would be a sample citation of something someone said! (see @taylor1999historical) 
+
+## Include at least one quote using '>'
+
+Here is a quote: 
+
+> All models are wrong but some are useful. 
+
+## Add at least two embedded images sortd in  (be professional)
+
+![This is a picture of a tree](images/tree)
+
+![This is a picture of different trees](images/cedar)
+
+
+## Add at least one embedded video 
+
+{{< video https://www.youtube.com/watch?v=g-Tu2-B4-0o width=“800” height=“500” >}}
+
+## Include at least one `Mermaid` diagram
+
+```{mermaid}
+%%| fig-cap: "A Mermaid diagram"
+%%| code-fold: false
+flowchart LR
+  A[Start raduate school] --> B(Get stressed)
+  B --> C{Options}
+  C --> D[Relaxing videos]
+  C --> E[Phone a friend]
+  C --> F[Cry ]
+```
+
+## Include at least one instance of the citations from your `.bib` file
+
+## References
+
+::: {#refs}
+:::
+
